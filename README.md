@@ -3,7 +3,7 @@
 - I'm an open source developer welcoming sponsorships to cooperate on projects that we find commons of our interest.
 - I'm a contractor of private software developments that would be highly at a client's will.
 - I'm operating the private company [ExtBit Limited](http://extbit.limited)
-  - for commercing private software components to offer advanced packages of applications and services,
+  - for commercing private software components to offer advanced packages of applications and services.
 
 <!--
 **duzy/duzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
