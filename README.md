@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I'm an open source developer welcoming sponsorships to cooperate on projects that we find commons of our interests.
-- I'm a contractor of private software development that would be highly at a client's will.
+- I'm an open source developer welcoming sponsorships to cooperate on projects that we find commons of our interest.
+- I'm a contractor of private software developments that would be highly at a client's will.
 - I'm operating the private company [ExtBit Limited](http://extbit.limited) for commercing private software components to offer advanced packages of applications and services.
 
 <!--
