@@ -7,7 +7,8 @@
 - I'm a contractor doing private software developments
   - that would be highly at a client's will.
 - I'm operating the private company [ExtBit Limited](http://extbit.limited)
-  - for commercing private software components to offer advanced packages of applications and services.
+  - for commercing private software components to offer advanced packages of applications and services,
+  - assemble open source technologies to server more customers and users.
 
 <!--
 **duzy/duzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
