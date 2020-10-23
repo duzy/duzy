@@ -3,7 +3,7 @@
 - I'm an open source developer
   - accept sponsorships to cooperate on projects that we find commons of interest,
   - contribute source code fully developed by myself,
-  - extend or patch to improve other's projects that I used.
+  - extend or patch to improve other projects that I used.
 - I'm a contractor of private software developments
   - that would be highly at a client's will.
 - I'm operating the private company [ExtBit Limited](http://extbit.limited)
