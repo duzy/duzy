@@ -4,7 +4,7 @@
   - accept sponsorships to cooperate on projects that we find commons of interest,
   - contribute source code fully developed by myself,
   - extend or patch to improve other projects that I used.
-- I'm a contractor of private software developments
+- I'm a contractor doing private software developments
   - that would be highly at a client's will.
 - I'm operating the private company [ExtBit Limited](http://extbit.limited)
   - for commercing private software components to offer advanced packages of applications and services.
