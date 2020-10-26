@@ -9,7 +9,7 @@
 - I'm operating the private company [ExtBit Limited](http://extbit.limited)
   - for commercing private software components to offer advanced packages of applications and services,
   - assemble and extend open source softwares to make more services and serve more customers and users,
-  - extend blockchain technology for generic application.
+  - extend blockchain technology for applications being better.
 
 <!--
 **duzy/duzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
