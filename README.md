@@ -11,6 +11,9 @@
   - assemble and extend open source softwares to make more services and cover more customers and users,
   - extend blockchain technology for generic applications being better.
 
+Links:
+  - [YouTube Channel](https://www.youtube.com/channel/UCOFulLMWj7hYxXng8Bh-RFg)
+
 <!--
 **duzy/duzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
