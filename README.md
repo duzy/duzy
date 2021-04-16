@@ -11,6 +11,9 @@
   - assemble and extend open source softwares to make more services and cover more customers and users,
   - extend blockchain technology for generic applications being better.
 
+Useful:
+  - [Bitcoin Forking Notes](https://github.com/duzy/blockchain-mail-docker/blob/master/doc/forking-notes.org)
+
 Links:
   - [YouTube Channel](https://www.youtube.com/channel/UCOFulLMWj7hYxXng8Bh-RFg)
 
