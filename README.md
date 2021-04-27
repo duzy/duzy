@@ -9,8 +9,8 @@
 - I'm operating the private company [ExtBit Limited](http://extbit.limited)
   - for commercing private software components to offer advanced packages of applications and services,
   - assemble and extend open source softwares to make more services and cover more customers and users,
-  - extend blockchain technology for generic applications being better.
-  - license to clients for using our toolchain and utilities to develop blockchain and applications
+  - extend blockchain technology for generic applications being easier and better,
+  - license to clients for using our toolchain and utilities to develop blockchain and applications,
   - offer payed development services and supports
 
 Links:
