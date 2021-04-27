@@ -10,6 +10,7 @@
   - for commercing private software components to offer advanced packages of applications and services,
   - assemble and extend open source softwares to make more services and cover more customers and users,
   - extend blockchain technology for generic applications being better.
+  - license to clients for using our toolchain and utilities to develop blockchain and applications
 
 Links:
   - [YouTube Channel](https://www.youtube.com/channel/UCOFulLMWj7hYxXng8Bh-RFg)
